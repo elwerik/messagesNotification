@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+.showMessages {
+  width: 100%;
+  height: 90px;
+  position: fixed;
+  bottom: 0px;
+  background: #8fc554;
+  margin-bottom: -90px;
+}
+.showMessages p {
+  color: #fff;
+  float: left;
+  margin: 10px;
+}
+.showMessages a {
+  color: #ddd;
+  float: right;
+  font-size: 16px;
+  margin: 10px;
+}
